@@ -1,4 +1,4 @@
-# C-_Word_Guessing_Game
+# C++_Word_Guessing_Game
 
 A simple game in which a random five letter word is chosen with two characters replaced with *.
 
